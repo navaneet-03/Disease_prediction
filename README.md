@@ -1,2 +1,2 @@
-# FA_Project
+# Disease_Prediction
 DL Models for ICAR Project
